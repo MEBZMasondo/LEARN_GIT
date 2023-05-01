@@ -47,7 +47,10 @@ TO PUSH TO BRANCH YOU MAY USE :
 
 ```
 git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/my_first_repository.git
-	! git clone https://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@github.com/MEBZMasondo/my_first_repository.git
+
+e.g
+
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/MEBZMasondo/my_first_repository.git
 
 ```
 
