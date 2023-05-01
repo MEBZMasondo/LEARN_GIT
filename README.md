@@ -64,14 +64,14 @@ git push -u origin main
 # BRANCES
 ## creacte branch
 
+```
+
 git checkout branch1
 git checkout -b subbranch_of_b1 branch1
 
+```
 
 
 # REFERENCES
 
-```
-https://kbroman.org/github_tutorial/
-
-```
+- https://kbroman.org/github_tutorial/
